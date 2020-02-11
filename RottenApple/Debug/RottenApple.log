@@ -1,0 +1,9 @@
+﻿  RottenApple.cpp
+E:\Python\RottenApple\RottenApple\RottenApple.cpp(11,92): warning C4018: '<': signed/unsigned mismatch
+E:\Python\RottenApple\RottenApple\RottenApple.cpp(15,92): warning C4018: '<': signed/unsigned mismatch
+E:\Python\RottenApple\RottenApple\RottenApple.cpp(21,92): warning C4018: '<': signed/unsigned mismatch
+E:\Python\RottenApple\RottenApple\RottenApple.cpp(25,92): warning C4018: '<': signed/unsigned mismatch
+E:\Python\RottenApple\RottenApple\RottenApple.cpp(40,14): warning C4018: '<': signed/unsigned mismatch
+E:\Python\RottenApple\RottenApple\RottenApple.cpp(47,14): warning C4018: '<': signed/unsigned mismatch
+E:\Python\RottenApple\RottenApple\RottenApple.cpp(51,14): warning C4018: '<': signed/unsigned mismatch
+  RottenApple.vcxproj -> E:\Python\RottenApple\Debug\RottenApple.exe
